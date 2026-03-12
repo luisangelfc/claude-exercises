@@ -15,6 +15,7 @@ footer{
 
 main{
     padding: 5px;
+    margin-bottom: 20px;
 }
 
 h1{
@@ -32,4 +33,5 @@ h1{
 /* # para id */
 #github{
     text-decoration: none;
+    color: white;
 }
